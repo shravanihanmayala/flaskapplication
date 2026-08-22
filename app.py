@@ -7,6 +7,7 @@ def home():
     <head>
         <body>
             <h1>HELLO RGUKT</h1>
+            
         </body>
     </html>"""
    
